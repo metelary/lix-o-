@@ -1,6 +1,13 @@
 body {
-    background-color: #323544;
+    background-color: #161616;
     color: white;
-    font-family; "Cinzel", serif;
+    font-family: "Cinzel", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
 }
 
+button {
+    background-color: #9b9b9b;
+}
